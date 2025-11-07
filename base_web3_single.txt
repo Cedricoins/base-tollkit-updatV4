@@ -89,6 +89,7 @@ module.exports = {
   }
 };
 ```
+If you don't want to expose you PRIVATE_KEY in your PC or somewhere, deploy on remix and copy the CONTRACT_ADDRESS
 
 --------------------------------------------------
 3. DEPLOY SCRIPT (Hardhat)
